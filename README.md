@@ -2,12 +2,14 @@
 <h3 align="center">A passionate Research MSc student in AI</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roger-creus&label=Profile%20views&color=0e75b6&style=flat" alt="roger-creus" /> </p>
-
-
 - 🔭 I’m currently working on **Unsupervised Reinforcement Learning**
 
+I am mostly interested in providing interactive agents with generalistic knowledge about the world. I do research in Reinforcement Learning to (1) learn world models for task-agnostic represenation learning and (2) derive holistic intrinsic objectives that arise generalistic problem-solving agents.
+I am mostly focused on simulated open-ended environments like Minecraft or Crafter as testbeds for multi-task agents, where not only the dynamics of the environments are complex, but also there is a sparse extrinsic supervision which motivates finding other ways to derive learning signals.
+
 - 👨‍💻 All of my projects are available at [https://roger-creus.github.io/](https://roger-creus.github.io/)
+
+Please reach out if you find some of these interesting and would like to chat about potential collaborations!
 
 - 📫 How to reach me **creus99@protonmail.com**
 
