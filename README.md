@@ -2,13 +2,13 @@
 <h3 align="center">A Research student in AI</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🕹️ Mixing AI with videogames
+- 🔭 Working on **Unsupervised Reinforcement Learning**. Interested in Exploration in RL, Intrinsic Motivations, World Models, Representation learning, and Information Theory. 
 
-- 🔭 Working on **Unsupervised Reinforcement Learning**
-
-- 🧠 Doing research in (1) learning world models for task-agnostic represenation learning and (2) deriving holistic intrinsic objectives that arise generalistic problem-solving agents
+- 🧠 Doing research in (1) deriving holistic intrinsic objectives to train generally capable agents and (2) learning world models for task-agnostic representation learning
 
 - 👨‍💻 All of my projects are available at [https://roger-creus.github.io/](https://roger-creus.github.io/)
+
+- 🕹️ Passionate about AI, videogames, and their combination
 
 Please reach out if you find some of these interesting and would like to chat about potential collaborations!
 
